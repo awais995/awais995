@@ -1,11 +1,16 @@
-<h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
+
+  <img src="./1.png" alt="Muhammad Awais Banner" width="100%">
+
+<h1 align="center">
+👋 Hi, I'm Muhammad Awais
+</h1>
 
 <h3 align="center">
-AI Engineer • Forward Deployed Engineer (FDE) • AI Automation Specialist
+AI Engineer • Forward Deployed Engineer (FDE)
 </h3>
 
 <p align="center">
-Building AI-Native Systems, Digital FTEs, and Intelligent Business Automation
+Building AI-Native Companies with Digital FTEs
 </p>
 
 <p align="center">
