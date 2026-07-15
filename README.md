@@ -16,7 +16,7 @@ Building AI-Native Systems, Digital FTEs, and Intelligent Business Automation
 
 # 🚀 About Me
 
-I am an AI Engineer passionate about helping organizations transform into **AI-Native Companies** through **Agentic AI**, **Forward Deployed Engineering (FDE)**, and **Digital FTEs (AI-powered Full-Time Employees)**.
+I am an AI Engineer passionate about helping organisations transform into **AI-Native Companies** through **Agentic AI**, **Forward Deployed Engineering (FDE)**, and **Digital FTEs (AI-powered Full-Time Employees)**.
 
 Rather than building isolated AI features, I design intelligent systems that automate complete business workflows and solve real operational challenges.
 
@@ -37,7 +37,7 @@ An offline-first Restaurant POS platform built for SMEs.
 **Features**
 
 - Offline-first Architecture
-- Cloud Synchronization
+- Cloud Synchronisation
 - Inventory Management
 - Kitchen Order Management
 - Thermal Receipt Printing
@@ -199,11 +199,9 @@ Designing AI-powered systems for
 <img src="https://img.shields.io/badge/WarisPOS-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://www.youtube.com/">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
 
-<a href="https://x.com/">
+
+<a href="https://x.com/meetawaissoomro">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
@@ -228,7 +226,7 @@ I am open to collaborating on:
 
 > AI should not replace people—it should amplify them.
 
-I believe the future belongs to organizations where humans and Digital FTEs work together as one intelligent workforce.
+I believe the future belongs to organisations where humans and Digital FTEs work together as one intelligent workforce.
 
 ---
 
